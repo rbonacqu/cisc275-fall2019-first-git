@@ -9,4 +9,5 @@
 The Comparator constructor call is on Line 16:
 	Collections.sort(dogs, new Comparator<Animal>() {
 
-The class definition for the Comparator
+The class definition for the Comparator is line 18:
+	public int compare(Animal a, Animal b){
